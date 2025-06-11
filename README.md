@@ -10,4 +10,5 @@
 
 ## 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/youknowom?template=classic&base.activity=true&base.community=true&base.metadata=false&lines=true&config.timezone=Asia%2FKolkata)
+
+![Metrics](https://github.com/youknowom/youknowom/blob/main/github-metrics.svg)
