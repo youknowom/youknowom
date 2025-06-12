@@ -13,8 +13,7 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories, metadata
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements: no  # ⬅️ This avoids the crash
           plugin_lines: yes
           plugin_followup: yes
           plugin_habits: yes
