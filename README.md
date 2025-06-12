@@ -8,3 +8,5 @@
 
 📊 **GitHub Activity Overview**  
 ![GitHub Metrics](./metrics.svg)
+![GitHub Metrics](.github/metrics.svg)
+
