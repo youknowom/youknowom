@@ -6,7 +6,3 @@
 🍔 **Food Hut**: A dynamic food ordering web application that connects food lovers with their favorite dishes.  
 💼 **Payroll Management System**: A secure and efficient system designed to streamline employee payroll management.
 
-📊 **GitHub Activity Overview**  
-![GitHub Metrics](./metrics.svg)
-![GitHub Metrics](.github/metrics.svg)
-
