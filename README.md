@@ -1,7 +1,6 @@
+# 👋 Hey, I'm Omkar
+
 ![Hello! 👋](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
-
-# 👋 Hey, I'm Omkar Bagul
-
 🌟 **Web Developer** | Crafting seamless experiences with **React.js** & **Express.js**
 
 🚀 Currently building powerful full-stack applications with intuitive UI and scalable backend logic.
