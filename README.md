@@ -20,7 +20,7 @@ A secure, admin-based payroll solution for managing employee records and salarie
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,js,ts,tailwind,materialui,vscode,git,figma,android" />
+  <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,js,ts,tailwind,materialui,git,figma" />
 </p>
 
 > *"Consistency > Motivation — keep showing up and building great things!"* 🚀
