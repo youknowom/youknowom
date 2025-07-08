@@ -24,19 +24,4 @@ A secure, admin-based payroll solution for managing employee records and salarie
   <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,js,ts,html,css,tailwind,materialui,vscode,git,github,figma" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarbagul&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarbagul&theme=tokyonight" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbagul&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 > *"Consistency > Motivation — keep showing up and building great things!"* 🚀
