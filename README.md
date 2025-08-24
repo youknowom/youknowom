@@ -7,16 +7,6 @@
 
 ----
 
-## 💼 Projects I'm Working On
-
-🍔 **Food Hut**  
-A modern food ordering platform connecting users with their favorite dishes. Built with the **MERN Stack**.
-
-💰 **Payroll Management System**  
-A secure, admin-based payroll solution for managing employee records and salaries efficiently.
-
----
-
 ## 🧰 Tech Stack
 
 <p align="left">
