@@ -17,6 +17,8 @@
 
 ---
 
-## 👀 Profile Visits
+##  Profile Visits
 ![Profile Views](https://komarev.com/ghpvc/?username=youknowom&style=flat-square&color=0e75b6&label=Profile+Views)
+![Visitor Count](https://moe-counter.glitch.me/get/@youknowom?theme=rule34)
+
 
