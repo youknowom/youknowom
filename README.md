@@ -25,12 +25,14 @@
 
 ---
 
-## 💖 Support My Work
+---
 
-If you find my projects helpful, consider supporting me:
+## ☕ Buy Me a Coffee
+
+> Fueling more late-night builds and open-source work ☕  
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/omkarbagul" target="_blank">
+  <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
     <img 
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
       alt="Buy Me A Coffee" 
