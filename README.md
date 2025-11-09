@@ -20,7 +20,7 @@
 ##  Profile Visits
 ![Visitor Count](https://moe-counter.glitch.me/get/@youknowom?theme=rule34)
 
-## ☕ Buy Me a Coffee
+##  Buy Me a Coffee
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
