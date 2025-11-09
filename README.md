@@ -26,8 +26,6 @@
 
 ## ☕ Buy Me a Coffee
 
-> Fueling more late-night builds and open-source work ☕  
-
 <p align="left">
   <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
     <img 
@@ -39,4 +37,5 @@
     />
   </a>
 </p>
+> Fueling more late-night builds and open-source work ☕  
 
