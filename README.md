@@ -28,10 +28,7 @@
 If you find my projects helpful, consider supporting me:
 
 <p align="left">
-  <a href="https://github.com/sponsors/youknowom">
-    <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor on GitHub" />
-  </a>
-  <a href="https://www.buymeacoffee.com/omkarbagul">
+  <a href="[https://www.buymeacoffee.com/omkarbagul](https://buymeacoffee.com/youknowom)">
     <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge" alt="Buy Me a Coffee" />
   </a>
 </p>
