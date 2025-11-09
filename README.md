@@ -23,13 +23,21 @@
 
 ---
 
+---
+
 ## 💖 Support My Work
 
 If you find my projects helpful, consider supporting me:
 
 <p align="left">
-  <a href="[https://www.buymeacoffee.com/omkarbagul](https://buymeacoffee.com/youknowom)">
-    <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge" alt="Buy Me a Coffee" />
+  <a href="https://www.buymeacoffee.com/omkarbagul" target="_blank">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me A Coffee" 
+      height="50" 
+      width="200" 
+      style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" 
+    />
   </a>
 </p>
 
