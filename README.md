@@ -2,7 +2,8 @@
 
 ![Hello! 👋](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-🌟 **Web Developer** | Crafting seamless experiences with **React.js** & **Express.js**  
+🌟 **Web Developer** | Crafting seamless experiences with **React.js** & **Express.js**
+
 🚀 Currently building powerful full-stack applications with intuitive UI and scalable backend logic.
 
 ---
@@ -17,8 +18,14 @@
 
 ---
 
-## 📊 Profile Stats
+## Profile Visits
 
-(https://count.getloli.com/get/@youknowom?theme=rule34)
+![Visitor Count](https://moe-counter.glitch.me/get/@youknowom?theme=rule34)
 
+## Buy Me a Coffee
 
+<p align="left">
+  <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="200" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+  </a>
+</p>
