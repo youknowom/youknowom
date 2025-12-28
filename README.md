@@ -19,7 +19,6 @@
 
 ## 📊 Profile Stats
 
-**👁 Visitor Count**
-```md
-![Visitor Count](https://moe-counter.glitch.me/get/@youknowom?theme=rule34)
+(https://count.getloli.com/get/@youknowom?theme=rule34)
+
 
