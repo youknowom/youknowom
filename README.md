@@ -20,9 +20,10 @@
 
 ## Profile Visits
 
-![Visitor Count](https://moe-counter.glitch.me/get/@youknowom?theme=rule34)
+## 👀 Visitor Count
 
 ![Visitor Count](https://count.getloli.com/get/@youknowom?theme=rule34)
+
 
 ## Buy Me a Coffee
 
