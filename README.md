@@ -19,9 +19,6 @@
 ---
 
 ## Profile Visits
-
-## 👀 Visitor Count
-
 ![Visitor Count](https://count.getloli.com/get/@youknowom?theme=rule34)
 
 
