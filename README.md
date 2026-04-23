@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,js,ts,tailwind,materialui,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,express,nodejs,mongodb,tailwind,git,figma" />
 </p>
 
 > *"Consistency > Motivation — keep showing up and building great things!"* 🚀
