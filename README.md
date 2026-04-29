@@ -49,14 +49,7 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 - **[Task Manager API](https://github.com/youknowom/task-manager-api)** — RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints. *(optional project example)*
 ---
 
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,express,nodejs,mongodb,postgresql,tailwind,git,github,figma" />
-</p>
-
----
-
+## 🧰 Tech Stac
 > **Consistency beats motivation — progress comes from showing up every day.** 🚀
 
 ---
