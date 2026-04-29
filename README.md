@@ -55,12 +55,6 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 - **Developer experience:** Creating tools and extensions that enhance productivity and streamline development workflows.
 - **Systems programming:** Deep diving into Go, in-memory systems, and building high-performance applications.
 ---
-🌟 **Web Developer** | Crafting seamless experiences with **React.js** & **Express.js**
-
-🚀 Currently building powerful full-stack applications with intuitive UI and scalable backend logic.
-
----
-
 ## 🧰 Tech Stack
 
 <p align="left">
