@@ -47,9 +47,7 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 - **[AI Interview Assistant](https://github.com/youknowom/ai-interview-assistant)** — AI-powered tool that helps users practice technical interviews with automated questions and feedback. *(add only if you have this project)*
 
 - **[Task Manager API](https://github.com/youknowom/task-manager-api)** — RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints. *(optional project example)*
----
 
-## 🧰 Tech Stac
 > **Consistency beats motivation — progress comes from showing up every day.** 🚀
 
 ---
