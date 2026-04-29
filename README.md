@@ -1,6 +1,8 @@
 <h1 align="center">Omkar Bagul</h1>
 
-<h3 align="center">AI engineer & Software developer currently building from zero.</h3>
+<h3 align="center">
+Full-Stack MERN Developer building scalable web applications and continuously improving through real-world projects.
+</h3>
 
 <p align="center">
   <a href="https://x.com/codexomkaar" target="_blank">twitter</a> •
@@ -9,45 +11,77 @@
   <a href="mailto:omdb2004@gmail.com" target="_blank">email</a>
 </p>
 
+---
+
 #### 🔷 my goto stack
-- typescript · javascript · python · go · react · next.js · node.js · express · mongoDB · postgresql · prisma · tailwind · langchain · langgraph · pytorch
-  
+
+- typescript · javascript · react · next.js · node.js · express  
+- mongoDB · postgresql · prisma · tailwind css  
+- python · go  
+- rest api · authentication · database design · problem solving  
+
+---
+
 #### 🔷 building from zero
 
-I build from zero. Whether it's frontend, backend, full-stack applications, or AI-powered experiences, I work across the entire development lifecycle. From UI/UX to deployment to user feedback, I care less about technology debates and more about delivering results that people love using.
+I build applications from scratch across the full development lifecycle — from designing responsive user interfaces to developing secure backend APIs and deploying production-ready systems.  
+My focus is on writing clean, maintainable code and solving real-world problems through practical software solutions.
+
+---
 
 #### 🔷 currently exploring
-- **AI/ML systems:** Integrating large language models into production applications, understanding model capabilities, and building intelligent user experiences.
-- **Full-stack architecture:** Designing scalable, maintainable systems that span from user interfaces to backend infrastructure.
-- **Developer experience:** Creating tools and extensions that enhance productivity and streamline development workflows.
-- **Systems programming:** Deep diving into Go, in-memory systems, and building high-performance applications.
+
+- **Data Structures & Algorithms:** Practicing regularly to strengthen problem-solving skills for technical interviews  
+- **System Design:** Learning scalable backend architecture and performance optimization  
+- **AI/ML systems:** Exploring integration of large language models into production applications  
+- **Backend Engineering:** Improving API security, performance, and database efficiency  
+
 ---
+
 #### 🔷 current work
 
-- **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — Open-source screenshot tool for macOS, alternative to CleanShot X.
+- **[Campus Connect](https://github.com/youknowom/campus-connect)**  
+  Reddit-style campus community platform built with Next.js.  
+  Includes secure authentication using Clerk, image-based posts, threaded comments, and upvote/downvote functionality powered by Prisma and PostgreSQL.
 
-- **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
+- **[QuickShow v2](https://github.com/youknowom/quick_show_v2)**  
+  Full-stack movie ticket booking system built using the MERN stack.  
+  Features seat selection, secure payments with Stripe, email notifications via Nodemailer, and an admin dashboard for managing shows and bookings.
 
-- **[OneURL](https://github.com/KartikLabhshetwar/oneurl)** — Open-source link-in-bio platform for creating profile pages to share links in one place.
+- **[Resume Builder](https://github.com/youknowom/resume-builder)**  
+  Resume generation platform with customizable templates and ATS-friendly formatting.  
+  Built using React and Tailwind on the frontend with a Node.js and Express backend supporting user authentication and resume preview functionality.
+
+---
 
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,express,nodejs,mongodb,tailwind,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,express,nodejs,mongodb,postgresql,tailwind,git,github,figma" />
 </p>
-
-> *"Consistency > Motivation — keep showing up and building great things!"* 🚀
 
 ---
 
-## Profile Visits
+> **Consistency beats motivation — progress comes from showing up every day.** 🚀
+
+---
+
+## 📈 Profile Visits
+
 ![Visitor Count](https://count.getloli.com/get/@youknowom?theme=rule34)
 
+---
 
-## Buy Me a Coffee
+## ☕ Buy Me a Coffee
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="200" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me A Coffee" 
+      height="50" 
+      width="200"
+      style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);"
+    />
   </a>
 </p>
