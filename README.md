@@ -1,8 +1,6 @@
 <h1 align="center">Omkar Bagul</h1>
 
-<h3 align="center">
-Full-Stack MERN Developer building scalable web applications and continuously improving through real-world projects.
-</h3>
+<h3 align="center">AI & Software Development Engineer (SDE) building real-world applications.</h3>
 
 <p align="center">
   <a href="https://x.com/codexomkaar" target="_blank">twitter</a> •
@@ -40,17 +38,11 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-- **[Campus Connect](https://github.com/youknowom/campus-connect)**  
-  Reddit-style campus community platform built with Next.js.  
-  Includes secure authentication using Clerk, image-based posts, threaded comments, and upvote/downvote functionality powered by Prisma and PostgreSQL.
+- **[Campus Connect](https://github.com/youknowom/campus-connect)** — Reddit-style campus community platform with authentication, posts, threaded comments, and voting built using Next.js, Prisma, and PostgreSQL.
 
-- **[QuickShow v2](https://github.com/youknowom/quick_show_v2)**  
-  Full-stack movie ticket booking system built using the MERN stack.  
-  Features seat selection, secure payments with Stripe, email notifications via Nodemailer, and an admin dashboard for managing shows and bookings.
+- **[QuickShow v2](https://github.com/youknowom/quick_show_v2)** — Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and an admin dashboard built using the MERN stack.
 
-- **[Resume Builder](https://github.com/youknowom/resume-builder)**  
-  Resume generation platform with customizable templates and ATS-friendly formatting.  
-  Built using React and Tailwind on the frontend with a Node.js and Express backend supporting user authentication and resume preview functionality.
+- **[Resume Builder](https://github.com/youknowom/resume-builder)** — Resume generation platform with customizable templates, ATS-friendly formatting, and authentication built using React, Tailwind, Node.js, and Express.
 
 ---
 
@@ -66,13 +58,13 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 ---
 
-## 📈 Profile Visits
+## Profile Visits
 
 ![Visitor Count](https://count.getloli.com/get/@youknowom?theme=rule34)
 
 ---
 
-## ☕ Buy Me a Coffee
+## Buy Me a Coffee
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
