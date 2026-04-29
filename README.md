@@ -42,8 +42,11 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 - **[QuickShow v2](https://github.com/youknowom/quick_show_v2)** — Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and an admin dashboard built using the MERN stack.
 
-- **[Resume Builder](https://github.com/youknowom/resume-builder)** — Resume generation platform with customizable templates, ATS-friendly formatting, and authentication built using React, Tailwind, Node.js, and Express.
+- **[Resume Builder](https://github.com/youknowom/resume-builder)** — Resume generation platform that creates ATS-friendly resumes with customizable templates, preview functionality, and user authentication.
 
+- **[AI Interview Assistant](https://github.com/youknowom/ai-interview-assistant)** — AI-powered tool that helps users practice technical interviews with automated questions and feedback. *(add only if you have this project)*
+
+- **[Task Manager API](https://github.com/youknowom/task-manager-api)** — RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints. *(optional project example)*
 ---
 
 ## 🧰 Tech Stack
