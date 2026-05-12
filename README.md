@@ -31,24 +31,24 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 - **Data Structures & Algorithms:** Practicing regularly to strengthen problem-solving skills for technical interviews  
 - **System Design:** Learning scalable backend architecture and performance optimization  
-- **AI/ML systems:** Exploring integration of large language models into production applications  
+- **AI/ML Systems:** Exploring integration of large language models into production applications  
 - **Backend Engineering:** Improving API security, performance, and database efficiency  
 
 ---
 
 #### 🔷 current work
 
-- **[AI Verify Snap](https://github.com/youknowom/ai-verify-snap)** — Advanced deepfake detection and digital forensics platform featuring Error Level Analysis (ELA), visual heatmaps, and automated report generation built using Next.js, Spring Boot, Python, and PostgreSQL.
+- <a href="https://github.com/youknowom/ai-verify-snap"><b>🟧 AI Verify Snap</b></a> — Advanced deepfake detection and digital forensics platform featuring Error Level Analysis (ELA), visual heatmaps, and automated report generation built using Next.js, Spring Boot, Python, and PostgreSQL.
 
-- **[QuickShow v2](https://github.com/youknowom/quick_show_v2)** — Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and an admin dashboard built using the MERN stack.
+- <a href="https://github.com/youknowom/quick_show_v2"><b>🟧 QuickShow v2</b></a> — Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and an admin dashboard built using the MERN stack.
 
-- **[Resume Builder](https://github.com/youknowom/resume-builder)** — Resume generation platform that creates ATS-friendly resumes with customizable templates, preview functionality, and user authentication.
+- <a href="https://github.com/youknowom/resume-builder"><b>🟧 Resume Builder</b></a> — Resume generation platform that creates ATS-friendly resumes with customizable templates, preview functionality, and user authentication.
 
-- **[AI Interview Assistant](https://github.com/youknowom/ai-interview-assistant)** — AI-powered tool that helps users practice technical interviews with automated questions and feedback. *(add only if you have this project)*
+- <a href="https://github.com/youknowom/ai-interview-assistant"><b>🟧 AI Interview Assistant</b></a> — AI-powered tool that helps users practice technical interviews with automated questions and feedback.
 
-- **[Task Manager API](https://github.com/youknowom/task-manager-api)** — RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints. *(optional project example)*
+- <a href="https://github.com/youknowom/task-manager-api"><b>🟧 Task Manager API</b></a> — RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints.
 
-> **Consistency beats motivation — progress comes from showing up every day.** 🚀
+> **Consistency beats motivation progress comes from showing up every day.** 🚀
 
 ---
 
@@ -65,9 +65,8 @@ My focus is on writing clean, maintainable code and solving real-world problems 
     <img 
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
       alt="Buy Me A Coffee" 
-      height="50" 
-      width="200"
-      style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);"
+      height="25" 
+      width="100"
     />
   </a>
 </p>
