@@ -1,6 +1,8 @@
 <h1 align="center">Omkar Bagul</h1>
 
-<h3 align="center">AI & Software Development Engineer (SDE) building real-world applications.</h3>
+<h3 align="center">
+  AI & Software Development Engineer (SDE) building real-world applications.
+</h3>
 
 <p align="center">
   <a href="https://x.com/codexomkaar" target="_blank">twitter</a> •
@@ -22,7 +24,8 @@
 
 #### 🔷 building from zero
 
-I build applications from scratch across the full development lifecycle — from designing responsive user interfaces to developing secure backend APIs and deploying production-ready systems.  
+I build applications from scratch across the full development lifecycle — from designing responsive user interfaces to developing secure backend APIs and deploying production-ready systems.
+
 My focus is on writing clean, maintainable code and solving real-world problems through practical software solutions.
 
 ---
@@ -38,23 +41,67 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-- <a href="https://github.com/youknowom/ai-verify-snap"><b>🟧 AI Verify Snap</b></a> — Advanced deepfake detection and digital forensics platform featuring Error Level Analysis (ELA), visual heatmaps, and automated report generation built using Next.js, Spring Boot, Python, and PostgreSQL.
+<ul>
 
-- <a href="https://github.com/youknowom/quick_show_v2"><b>🟧 QuickShow v2</b></a> — Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and an admin dashboard built using the MERN stack.
+<li>
+  <a href="https://github.com/youknowom/ai-verify-snap">
+    <img src="https://img.shields.io/badge/AI_Verify_Snap-orange?style=for-the-badge" />
+  </a>
+  <br/>
+  Advanced deepfake detection and digital forensics platform featuring Error Level Analysis (ELA), visual heatmaps, and automated report generation built using Next.js, Spring Boot, Python, and PostgreSQL.
+</li>
 
-- <a href="https://github.com/youknowom/resume-builder"><b>🟧 Resume Builder</b></a> — Resume generation platform that creates ATS-friendly resumes with customizable templates, preview functionality, and user authentication.
+<br/>
 
-- <a href="https://github.com/youknowom/ai-interview-assistant"><b>🟧 AI Interview Assistant</b></a> — AI-powered tool that helps users practice technical interviews with automated questions and feedback.
+<li>
+  <a href="https://github.com/youknowom/quick_show_v2">
+    <img src="https://img.shields.io/badge/QuickShow_v2-orange?style=for-the-badge" />
+  </a>
+  <br/>
+  Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and admin dashboard built using the MERN stack.
+</li>
 
-- <a href="https://github.com/youknowom/task-manager-api"><b>🟧 Task Manager API</b></a> — RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints.
+<br/>
 
-> **Consistency beats motivation progress comes from showing up every day.** 🚀
+<li>
+  <a href="https://github.com/youknowom/resume-builder">
+    <img src="https://img.shields.io/badge/Resume_Builder-orange?style=for-the-badge" />
+  </a>
+  <br/>
+  Resume generation platform that creates ATS-friendly resumes with customizable templates, preview functionality, and user authentication.
+</li>
+
+<br/>
+
+<li>
+  <a href="https://github.com/youknowom/ai-interview-assistant">
+    <img src="https://img.shields.io/badge/AI_Interview_Assistant-orange?style=for-the-badge" />
+  </a>
+  <br/>
+  AI-powered tool that helps users practice technical interviews with automated questions and feedback.
+</li>
+
+<br/>
+
+<li>
+  <a href="https://github.com/youknowom/task-manager-api">
+    <img src="https://img.shields.io/badge/Task_Manager_API-orange?style=for-the-badge" />
+  </a>
+  <br/>
+  RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints.
+</li>
+
+</ul>
+
+> **Consistency beats motivation — progress comes from showing up every day.** 🚀
 
 ---
 
 ## Profile Visits
 
-![Visitor Count](https://count.getloli.com/get/@youknowom?theme=rule34)
+<p align="left">
+  <img src="https://count.getloli.com/get/@youknowom?theme=rule34" />
+</p>
 
 ---
 
@@ -65,8 +112,7 @@ My focus is on writing clean, maintainable code and solving real-world problems 
     <img 
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
       alt="Buy Me A Coffee" 
-      height="25" 
-      width="100"
+      height="45"
     />
   </a>
 </p>
