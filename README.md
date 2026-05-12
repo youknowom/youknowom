@@ -41,58 +41,15 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-<ul>
+- <a href="https://github.com/youknowom/ai-verify-snap" style="text-decoration:none;"><b>AI Verify Snap</b></a> — Advanced deepfake detection and digital forensics platform featuring Error Level Analysis (ELA), visual heatmaps, and automated report generation built using Next.js, Spring Boot, Python, and PostgreSQL.
 
-<li>
-  <a href="https://github.com/youknowom/ai-verify-snap">
-    <img src="https://img.shields.io/badge/AI_Verify_Snap-orange?style=for-the-badge" />
-  </a>
-  <br/>
-  Advanced deepfake detection and digital forensics platform featuring Error Level Analysis (ELA), visual heatmaps, and automated report generation built using Next.js, Spring Boot, Python, and PostgreSQL.
-</li>
+- <a href="https://github.com/youknowom/quick_show_v2" style="text-decoration:none;"><b>QuickShow v2</b></a> — Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and an admin dashboard built using the MERN stack.
 
-<br/>
+- <a href="https://github.com/youknowom/resume-builder" style="text-decoration:none;"><b>Resume Builder</b></a> — Resume generation platform that creates ATS-friendly resumes with customizable templates, preview functionality, and user authentication.
 
-<li>
-  <a href="https://github.com/youknowom/quick_show_v2">
-    <img src="https://img.shields.io/badge/QuickShow_v2-orange?style=for-the-badge" />
-  </a>
-  <br/>
-  Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and admin dashboard built using the MERN stack.
-</li>
+- <a href="https://github.com/youknowom/ai-interview-assistant" style="text-decoration:none;"><b>AI Interview Assistant</b></a> — AI-powered tool that helps users practice technical interviews with automated questions and feedback.
 
-<br/>
-
-<li>
-  <a href="https://github.com/youknowom/resume-builder">
-    <img src="https://img.shields.io/badge/Resume_Builder-orange?style=for-the-badge" />
-  </a>
-  <br/>
-  Resume generation platform that creates ATS-friendly resumes with customizable templates, preview functionality, and user authentication.
-</li>
-
-<br/>
-
-<li>
-  <a href="https://github.com/youknowom/ai-interview-assistant">
-    <img src="https://img.shields.io/badge/AI_Interview_Assistant-orange?style=for-the-badge" />
-  </a>
-  <br/>
-  AI-powered tool that helps users practice technical interviews with automated questions and feedback.
-</li>
-
-<br/>
-
-<li>
-  <a href="https://github.com/youknowom/task-manager-api">
-    <img src="https://img.shields.io/badge/Task_Manager_API-orange?style=for-the-badge" />
-  </a>
-  <br/>
-  RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints.
-</li>
-
-</ul>
-
+- <a href="https://github.com/youknowom/task-manager-api" style="text-decoration:none;"><b>Task Manager API</b></a> — RESTful backend service for managing tasks with authentication, CRUD operations, and secure API endpoints.
 > **Consistency beats motivation — progress comes from showing up every day.** 🚀
 
 ---
