@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://x.com/codexomkaar" target="_blank">twitter</a> •
   <a href="https://www.linkedin.com/in/omkar-bagul/" target="_blank">linkedin</a> •
-  <a href="https://github.com/youknowom" target="_blank">github</a> •
+  <a href="https://omkar-dev.vercel.app/" target="_blank">portfolio</a> •
   <a href="mailto:omdb2004@gmail.com" target="_blank">email</a>
 </p>
 
