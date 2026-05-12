@@ -38,7 +38,7 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-- **[Campus Connect](https://github.com/youknowom/campus-connect)** — Reddit-style campus community platform with authentication, posts, threaded comments, and voting built using Next.js, Prisma, and PostgreSQL.
+- **[AI Verify Snap](https://github.com/youknowom/ai-verify-snap)** — Advanced deepfake detection and digital forensics platform featuring Error Level Analysis (ELA), visual heatmaps, and automated report generation built using Next.js, Spring Boot, Python, and PostgreSQL.
 
 - **[QuickShow v2](https://github.com/youknowom/quick_show_v2)** — Full-stack movie ticket booking system with seat selection, Stripe payments, email notifications, and an admin dashboard built using the MERN stack.
 
