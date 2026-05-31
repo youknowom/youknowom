@@ -41,12 +41,11 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-- <a href="https://github.com/youknowom/paisa-flow" style="text-decoration:none;"><b>Paisa Flow</b></a> — Personal finance manager to track expenses, budgets, and financial insights (TypeScript).
+- <a href="https://github.com/youknowom/ai-verify-snap" style="text-decoration:none;"><b>AI Verify Snap</b></a> — Advanced deepfake detection platform using ELA and ML for media verification.
 - <a href="https://github.com/youknowom/ai-health-care" style="text-decoration:none;"><b>AI Health Care</b></a> — AI medical assistant with OCR, X-ray analysis, NLP, and doctor finder features.
 - <a href="https://github.com/youknowom/code-Tree" style="text-decoration:none;"><b>CodeTree</b></a> — Interactive coding platform for mastering web development, React, Python, and GenAI.
-- <a href="https://github.com/youknowom/ai-verify-snap" style="text-decoration:none;"><b>AI Verify Snap</b></a> — Advanced deepfake detection platform using ELA and ML for media verification.
-- <a href="https://github.com/youknowom/ai-verify-snap-v2" style="text-decoration:none;"><b>AI Verify Snap v2</b></a> — Next-gen deepfake and digital forensics platform (TypeScript).
-- <a href="https://github.com/youknowom/The-Consistent-Coders" style="text-decoration:none;"><b>The Consistent Coders</b></a> — A community for helping beginners and freelancers crack their first tech job through real projects.
+- <a href="https://github.com/youknowom/create-next-vault" style="text-decoration:none;"><b>Create Next Vault</b></a> — CLI to instantly scaffold a modern Next.js app with TailwindCSS, shadcn/ui, themes, and TypeScript.
+- <a href="https://github.com/youknowom/ai-career-coach" style="text-decoration:none;"><b>AI Career Coach</b></a> — Personalized career guidance and job prep powered by AI.
 
 You can see more projects or older work at <a href="https://github.com/youknowom?tab=repositories" target="_blank">my full repositories page</a>.
 
