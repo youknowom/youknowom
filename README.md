@@ -47,8 +47,6 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 - <a href="https://github.com/youknowom/create-next-vault" style="text-decoration:none;"><b>Create Next Vault</b></a> — CLI to instantly scaffold a modern Next.js app with TailwindCSS, shadcn/ui, themes, and TypeScript.
 - <a href="https://github.com/youknowom/ai-career-coach" style="text-decoration:none;"><b>AI Career Coach</b></a> — Personalized career guidance and job prep powered by AI.
 
-You can see more projects or older work at <a href="https://github.com/youknowom?tab=repositories" target="_blank">my full repositories page</a>.
-
 > **Consistency beats motivation — progress comes from showing up every day.** 🚀
 
 ---
