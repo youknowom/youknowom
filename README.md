@@ -17,7 +17,7 @@
 
 - typescript · javascript · react · next.js · node.js · express  
 - mongoDB · postgresql · prisma · tailwind css  
-- python · go  
+<!-- - python · go  -->
 - rest api · authentication · database design · problem solving  
 
 ---
@@ -44,7 +44,7 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 - <a href="https://github.com/youknowom/ai-verify-snap" style="text-decoration:none;"><b>AI Verify Snap</b></a> — Advanced deepfake detection platform using ELA and ML for media verification.
 - <a href="https://github.com/youknowom/ai-health-care" style="text-decoration:none;"><b>AI Health Care</b></a> — AI medical assistant with OCR, X-ray analysis, NLP, and doctor finder features.
 - <a href="https://github.com/youknowom/code-Tree" style="text-decoration:none;"><b>CodeTree</b></a> — Interactive coding platform for mastering web development, React, Python, and GenAI.
-- <a href="https://github.com/youknowom/create-next-vault" style="text-decoration:none;"><b>Create Next Vault</b></a> — CLI to instantly scaffold a modern Next.js app with TailwindCSS, shadcn/ui, themes, and TypeScript.
+- <a href="https://github.com/youknowom/create-next-vault" style="text-decoration:none;"><b>Create Next Vault</b></a> — CLI to instantly scaffold a modern Next.js app with TailwindCSS, shadcn/ui, th[...]
 - <a href="https://github.com/youknowom/ai-career-coach" style="text-decoration:none;"><b>AI Career Coach</b></a> — Personalized career guidance and job prep powered by AI.
 
 > **Consistency beats motivation — progress comes from showing up every day.** 🚀
