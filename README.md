@@ -5,10 +5,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://x.com/codexomkar" target="_blank">twitter</a> •
-  <a href="https://www.linkedin.com/in/omkar-bagul/" target="_blank">linkedin</a> •
-  <a href="https://omkar-dev.vercel.app/" target="_blank">portfolio</a> •
-  <a href="mailto:omdb2004@gmail.com" target="_blank">email</a>
+  <a href="https://x.com/codexomkar" target="blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/omkar-bagul/" target="blank">linkedin</a> •
+  <a href="https://omkar-dev.vercel.app/" target="blank">portfolio</a> •
+  <a href="mailto:omdb2004@gmail.com" target="blank">email</a>
 </p>
 
 ---
@@ -41,11 +41,11 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-- <a href="https://github.com/youknowom/ai-verify-snap" style="text-decoration:none;"><b>AI Verify Snap</b></a> — Advanced deepfake detection platform using ELA and ML for media verification.
-- <a href="https://github.com/youknowom/ai-health-care" style="text-decoration:none;"><b>AI Health Care</b></a> — AI medical assistant with OCR, X-ray analysis, NLP, and doctor finder features.
-- <a href="https://github.com/youknowom/code-Tree" style="text-decoration:none;"><b>CodeTree</b></a> — Interactive coding platform for mastering web development, React, Python, and GenAI.
-- <a href="https://github.com/youknowom/create-next-vault" style="text-decoration:none;"><b>Create Next Vault</b></a> — CLI to instantly scaffold a modern Next.js app with TailwindCSS, shadcn/ui, th[...]
-- <a href="https://github.com/youknowom/ai-career-coach" style="text-decoration:none;"><b>AI Career Coach</b></a> — Personalized career guidance and job prep powered by AI.
+- <a href="https://github.com/youknowom/ai-verify-snap" target="_blank">AI Verify Snap</a> | <a href="https://ai-verify-snap.vercel.app/" target="_blank">live demo</a> — Advanced deepfake detection platform using ELA and ML for media verification.
+- <a href="https://github.com/youknowom/ai-health-care" target="_blank">AI Health Care</a> | <a href="" target="_blank">live demo</a> — AI medical assistant with OCR, X-ray analysis, NLP, and doctor finder features.
+- <a href="https://github.com/youknowom/code-Tree" target="_blank">CodeTree</a> | <a href="" target="_blank">live demo</a> — Interactive coding platform for mastering web development, React, Python, and GenAI.
+- <a href="https://github.com/youknowom/create-next-vault" target="_blank">Create Next Vault</a> | <a href="" target="_blank">live demo</a> — CLI to instantly scaffold a modern Next.js app with TailwindCSS, shadcn/ui, etc.
+- <a href="https://github.com/youknowom/ai-career-coach" target="_blank">AI Career Coach</a> | <a href="" target="_blank">live demo</a> — Personalized career guidance and job prep powered by AI.
 
 > **Consistency beats motivation — progress comes from showing up every day.** 🚀
 
