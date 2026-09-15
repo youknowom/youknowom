@@ -41,7 +41,6 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-- <a href="https://github.com/youknowom/clientmark-app" target="_blank">ClientMark</a> | <a href="" target="_blank">live demo</a> — Markdown editor and note-taking app built with React and JavaScript.
 - <a href="https://github.com/youknowom/ai-verify-snap" target="_blank">AI Verify Snap</a> | <a href="https://ai-verify-snap.vercel.app/" target="_blank">live demo</a> — Advanced deepfake detect[...]
 - <a href="https://github.com/youknowom/ai-health-care" target="_blank">AI Health Care</a> | <a href="" target="_blank">live demo</a> — AI medical assistant with OCR, X-ray analysis, NLP, and do[...]
 - <a href="https://github.com/youknowom/code-Tree" target="_blank">CodeTree</a> | <a href="" target="_blank">live demo</a> — Interactive coding platform for mastering web development, React, Pyt[...]
