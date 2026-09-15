@@ -52,21 +52,21 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 ---
 
-<table>
-  <tr>
-    <td align="left" width="70%">
-      <h2>Profile Visits</h2>
-      <img src="https://count.getloli.com/get/@youknowom?theme=rule34" height="100" />
-    </td>
-    <td align="right" width="30%">
-      <h2>Buy Me a Coffee</h2>
-      <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
-        <img
-          src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-          alt="Buy Me A Coffee"
-          height="45"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <img
+    src="https://count.getloli.com/get/@youknowom?theme=rule34"
+    height="70"
+    align="left"
+  />
+
+  <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me a Coffee"
+      height="35"
+      align="right"
+    />
+  </a>
+</div>
+
+<br clear="both" />
