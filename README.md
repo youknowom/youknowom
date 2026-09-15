@@ -24,7 +24,6 @@
 #### 🔷 building from zero
 
 I build applications from scratch across the full development lifecycle from designing responsive user interfaces to developing secure backend APIs and deploying production-ready systems.
-
 My focus is on writing clean, maintainable code and solving real-world problems through practical software solutions.
 
 ---
