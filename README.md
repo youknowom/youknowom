@@ -41,32 +41,32 @@ My focus is on writing clean, maintainable code and solving real-world problems 
 
 #### 🔷 current work
 
-- <a href="https://github.com/youknowom/clientmark" target="_blank">Clientmark</a> | <a href="https://www.clientmark.app/" target="_blank">live demo</a> — Client management platform for tracking clients, projects, invoices, and business workflows.
-- <a href="https://github.com/youknowom/ai-verify-snap" target="_blank">AI Verify Snap</a> | <a href="https://ai-verify-snap.vercel.app/" target="_blank">live demo</a> — Deepfake detection platform for analyzing images and identifying AI-generated or manipulated content.
-- <a href="https://github.com/youknowom/ai-health-care" target="_blank">AI Health Care</a> | <a href="" target="_blank">live demo</a> — AI-powered medical assistant combining OCR, X-ray analysis, NLP, and intelligent health insights.
-- <a href="https://github.com/youknowom/code-Tree" target="_blank">CodeTree</a> | <a href="" target="_blank">live demo</a> — Interactive coding platform for learning web development through structured lessons, practice, and hands-on projects.
-- <a href="https://github.com/youknowom/create-next-vault" target="_blank">Create Next Vault</a> | <a href="" target="_blank">live demo</a> — CLI tool for instantly scaffolding modern Next.js applications with a ready-to-use development setup.
-- <a href="https://github.com/youknowom/ai-career-coach" target="_blank">AI Career Coach</a> | <a href="" target="_blank">live demo</a> — AI-powered career assistant for personalized guidance, resume improvement, interview preparation, and job search support.
+- <a href="https://github.com/youknowom/clientmark" target="_blank">Clientmark</a> | <a href="https://www.clientmark.app/" target="_blank">[live demo]</a> — Client management platform for tracking clients, projects, invoices, and business workflows.
+- <a href="https://github.com/youknowom/ai-verify-snap" target="_blank">AI Verify Snap</a> | <a href="https://ai-verify-snap.vercel.app/" target="_blank">[live demo]</a> — Deepfake detection platform for analyzing images and identifying AI-generated or manipulated content.
+- <a href="https://github.com/youknowom/ai-health-care" target="_blank">AI Health Care</a> | <a href="" target="_blank">[live demo]</a> — AI-powered medical assistant combining OCR, X-ray analysis, NLP, and intelligent health insights.
+- <a href="https://github.com/youknowom/code-Tree" target="_blank">CodeTree</a> | <a href="" target="_blank">[live demo]</a> — Interactive coding platform for learning web development through structured lessons, practice, and hands-on projects.
+- <a href="https://github.com/youknowom/create-next-vault" target="_blank">Create Next Vault</a> | <a href="" target="_blank">[live demo]</a> — CLI tool for instantly scaffolding modern Next.js applications with a ready-to-use development setup.
+- <a href="https://github.com/youknowom/ai-career-coach" target="_blank">AI Career Coach</a> | <a href="" target="_blank">[live demo]</a> — AI-powered career assistant for personalized guidance, resume improvement, interview preparation, and job search support.
 
-> **Consistency beats motivation — progress comes from showing up every day.** 🚀
+> **Consistency beats motivation progress comes from showing up every day.** 🚀
 
 ---
 
-<div>
-  <img
-    src="https://count.getloli.com/get/@youknowom?theme=rule34"
-    height="70"
-    align="left"
-  />
-
-  <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      alt="Buy Me a Coffee"
-      height="35"
-      align="right"
-    />
-  </a>
-</div>
-
-<br clear="both" />
+<table>
+  <tr>
+    <td align="left">
+      <strong>Profile Visits</strong><br>
+      <img src="https://count.getloli.com/get/@youknowom?theme=rule34" height="70">
+    </td>
+    <td align="left">
+      <strong>Buy Me a Coffee</strong><br>
+      <a href="https://www.buymeacoffee.com/youknowom" target="_blank">
+        <img
+          src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+          alt="Buy Me a Coffee"
+          height="35"
+        >
+      </a>
+    </td>
+  </tr>
+</table>
