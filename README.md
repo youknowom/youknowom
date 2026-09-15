@@ -17,9 +17,8 @@
 
 - typescript · javascript · react · next.js · node.js · express
 - mongoDB · postgresql · prisma · tailwind css
-<!-- - python · go -->
 - rest api · authentication · database design · problem solving
-
+<!-- - python · go -->
 ---
 
 #### 🔷 building from zero
