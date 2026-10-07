@@ -4,12 +4,13 @@
   AI & Software Development Engineer (SDE) building real-world applications.
 </h3>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://x.com/codexomkar" target="blank">twitter</a> •
   <a href="https://www.linkedin.com/in/omkar-bagul/" target="blank">linkedin</a> •
   <a href="https://omkar-dev.vercel.app/" target="blank">portfolio</a> •
+  <a href="https://peerlist.io/youknowom" target="blank">peerlist.io</a> •
   <a href="mailto:omdb2004@gmail.com" target="blank">email</a>
-</p> -->
+</p>
 
 ---
 
